@@ -1,0 +1,19 @@
+{
+  "name": "xlmraffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/*.spec.js"
+  },
+  "keywords": ["stellar", "xlm", "xlmpool"],
+  "author": "Jesse Luoto",
+  "license": "MIT",
+  "dependencies": {
+    "stellar-sdk": "^0.7.7"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
